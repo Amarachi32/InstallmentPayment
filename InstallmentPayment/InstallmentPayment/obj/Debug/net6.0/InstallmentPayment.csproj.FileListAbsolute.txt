@@ -1,0 +1,15 @@
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\bin\Debug\net6.0\InstallmentPayment.exe
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\bin\Debug\net6.0\InstallmentPayment.deps.json
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\bin\Debug\net6.0\InstallmentPayment.runtimeconfig.json
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\bin\Debug\net6.0\InstallmentPayment.dll
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\bin\Debug\net6.0\InstallmentPayment.pdb
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.csproj.AssemblyReference.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.AssemblyInfoInputs.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.AssemblyInfo.cs
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.csproj.CoreCompileInputs.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.dll
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\refint\InstallmentPayment.dll
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.pdb
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\InstallmentPayment.genruntimeconfig.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\InstallmentPayment\InstallmentPayment\obj\Debug\net6.0\ref\InstallmentPayment.dll
