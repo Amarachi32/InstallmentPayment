@@ -1,0 +1,15 @@
+C:\amara\visual\test\exception\tracker\tracker\bin\Debug\net6.0\tracker.exe
+C:\amara\visual\test\exception\tracker\tracker\bin\Debug\net6.0\tracker.deps.json
+C:\amara\visual\test\exception\tracker\tracker\bin\Debug\net6.0\tracker.runtimeconfig.json
+C:\amara\visual\test\exception\tracker\tracker\bin\Debug\net6.0\tracker.dll
+C:\amara\visual\test\exception\tracker\tracker\bin\Debug\net6.0\tracker.pdb
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.csproj.AssemblyReference.cache
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.AssemblyInfoInputs.cache
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.AssemblyInfo.cs
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.csproj.CoreCompileInputs.cache
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.dll
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\refint\tracker.dll
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.pdb
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\tracker.genruntimeconfig.cache
+C:\amara\visual\test\exception\tracker\tracker\obj\Debug\net6.0\ref\tracker.dll
